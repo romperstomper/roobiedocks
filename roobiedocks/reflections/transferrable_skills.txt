@@ -1,0 +1,4 @@
+I have previously built up my python knowledge from zero to codingprojects of
+several thousand lines so I have a decent amount of python knowledge. I 
+recognize the similarities in the syntax between the two and thinkthat they will
+help me to learn ruby.

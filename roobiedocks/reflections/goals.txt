@@ -1,0 +1,3 @@
+My goal is to become proficient in ruby. Ruby knowledge is required at my job so
+I am expected to learn it. I also enjoy increasing my skillset so there is good
+motivation for me to learn ruby.
